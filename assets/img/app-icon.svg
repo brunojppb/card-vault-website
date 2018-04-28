@@ -1,0 +1,29 @@
+
+<svg width="1536px" height="1536px" viewBox="0 0 1536 1536" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iOS-icon-Prod">
+            <g id="Group-2" transform="translate(161.000000, 160.000000)">
+                <ellipse id="Oval-3" fill="#D3D3D3" cx="610.188053" cy="607.5" rx="604.811947" ry="607.5"></ellipse>
+                <g id="Group" transform="translate(0.000000, 270.000000)" fill="#434343">
+                    <rect id="Rectangle-2" x="0" y="0" width="107.522124" height="167.4" rx="16.2"></rect>
+                    <rect id="Rectangle-2" x="5.37610619" y="491.4" width="107.522124" height="167.4" rx="16.2"></rect>
+                </g>
+                <rect id="Rectangle" fill="#434343" x="75.2654867" y="124.2" width="1075.22124" height="972" rx="102.6"></rect>
+                <g id="inner-circle" transform="translate(381.703540, 378.000000)">
+                    <ellipse id="Oval-2" fill="#FFFFFF" cx="233.860619" cy="234.9" rx="233.860619" ry="234.9"></ellipse>
+                    <ellipse id="Oval-2" fill="#434343" cx="236.548673" cy="237.6" rx="112.89823" ry="113.4"></ellipse>
+                </g>
+                <g id="handlers" transform="translate(244.553097, 237.600000)" fill="#FFFFFF">
+                    <rect id="Rectangle-3" transform="translate(577.462413, 583.731088) rotate(45.000000) translate(-577.462413, -583.731088) " x="413.998723" y="534.843263" width="326.927379" height="97.7756493" rx="48.6"></rect>
+                    <rect id="Rectangle-3" transform="translate(163.502236, 582.668912) rotate(135.000000) translate(-163.502236, -582.668912) " x="0.0385464101" y="533.781088" width="326.927379" height="97.7756493" rx="48.6"></rect>
+                    <rect id="Rectangle-3" transform="translate(577.991150, 150.912175) scale(1, -1) rotate(45.000000) translate(-577.991150, -150.912175) " x="414.527461" y="102.024351" width="326.927379" height="97.7756493" rx="48.6"></rect>
+                    <rect id="Rectangle-3" transform="translate(164.030973, 150.912175) scale(1, -1) rotate(135.000000) translate(-164.030973, -150.912175) " x="0.567284146" y="102.024351" width="326.927379" height="97.7756493" rx="48.6"></rect>
+                </g>
+                <rect id="Rectangle-4" fill="#FFFFFF" x="999.955752" y="496.8" width="96.7699115" height="205.2" rx="48.3849558"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
